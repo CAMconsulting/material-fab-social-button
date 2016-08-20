@@ -81,9 +81,9 @@ Finally, add these js scripts right before your `</body>`:
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
 ```
 You have the full code [here.](https://github.com/CAMconsulting/material-fab-social-button/blob/master/fab-basic.html)  
-If you use [Jekyll](http://jekyllrb.com/), than you should try this other [version](https://github.com/CAMconsulting/material-fab-social-button/blob/master/fab-jekyll.html) that configures further the social buttons action. Thanks to [Kanishk Kunal](https://superdevresources.com/author/kanishk/) for authoring ["Simple Share buttons for Jekyll blog"](https://superdevresources.com/share-buttons-jekyll/), which really helped to configure share buttons.  
+If you use [Jekyll](http://jekyllrb.com/), than you should try this other [version](https://github.com/CAMconsulting/material-fab-social-button/blob/master/fab-jekyll.html) that configures further the social buttons action. Thanks to [Kanishk Kunal](https://superdevresources.com/author/kanishk/) for authoring ["Simple Share buttons for Jekyll blog"](https://superdevresources.com/share-buttons-jekyll/), which really helped me to configure share buttons.  
 Also you can find the four svgs logos within the **assets** folder.  
-You can see the live demo [here.](http://estospanas.com)  
+You can see the live demo [here.](http://goo.gl/jqDdFU)  
 Happy Coding! :octocat: :shipit:
 
 
